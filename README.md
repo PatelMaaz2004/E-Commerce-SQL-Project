@@ -1,8 +1,8 @@
 # 🛍️ E-Commerce SQL Project
 
-## 👨‍💻 Author: Maaz Patel
-## 📘 Database: Online_Shopping
-## 📅 Completed: November 2025
+### 👨‍💻 Author: Maaz Patel
+### 📘 Database: Online_Shopping
+### 📅 Completed: November 2025
 
 ---
 
