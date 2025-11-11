@@ -1,6 +1,6 @@
 -- 🛍️ E-COMMERCE SQL PROJECT
 -- 👨‍💻 Author: Maaz Patel
--- 📘 Database: ecommerce_db
+-- 📘 Database: Online_Shopping 
 -- 🧱 Built using MySQL Workbench 8.0 CE
 
 
